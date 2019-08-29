@@ -1,0 +1,12 @@
+.input{
+    text-align: center;
+  }
+  
+  .input input{
+    border-radius: 5px;
+    border: 1px solid rgba(46, 49, 49, 1);
+    margin-bottom: 20px;
+    height: 25px;
+    width: 230px;
+    padding: 5px;
+  }
